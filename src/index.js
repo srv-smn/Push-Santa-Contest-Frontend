@@ -6,12 +6,12 @@ import reportWebVitals from "./reportWebVitals";
 import "@rainbow-me/rainbowkit/styles.css";
 import { getDefaultWallets, RainbowKitProvider } from "@rainbow-me/rainbowkit";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
-import { mainnet, polygon, optimism, arbitrum,polygonMumbai } from "wagmi/chains";
+import { mainnet, polygon, optimism, arbitrum,polygonMumbai,goerli } from "wagmi/chains";
 import { publicProvider } from "wagmi/providers/public";
 import { alchemyProvider } from "wagmi/providers/alchemy";
 
 const { chains, provider } = configureChains(
-  [mainnet, polygon,polygonMumbai, optimism, arbitrum],
+  [mainnet, polygon,polygonMumbai, optimism, arbitrum,goerli],
   [
     alchemyProvider({ apiKey: "yfupUBsuP-veah6-aNiz_PnhNIksC29D" }),
     publicProvider(),
