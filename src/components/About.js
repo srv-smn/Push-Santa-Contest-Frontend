@@ -62,8 +62,7 @@ function About() {
           />
           <div class="card">
             <p>
-              Keep track of your cryptocurrency holdings and stay informed about
-              any changes to their balance{" "}
+              Stay informed about any changes to your balance{" "}
             </p>
           </div>
         </section>{" "}
@@ -73,7 +72,7 @@ function About() {
             alt=""
           />
           <div class="card">
-            <p>Get Notified about your unauthorized transaction</p>
+            <p>Stay updated about all your Credit and Debit</p>
           </div>
         </section>
       </div>
