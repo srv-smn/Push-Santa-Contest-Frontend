@@ -1,0 +1,120 @@
+.main{
+    margin-top:100px;
+    color:white
+}
+.btns{
+margin-top:90px;
+  background-color: rgb(190, 63, 216);
+  border: none;
+  width: 120px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  padding:10px;
+    font-size:19px;
+    color: white;
+    font-weight: bold;
+
+}
+.text{
+    padding:10px 50px;
+    margin-top:40px;
+    text-align:left
+}
+.heading{
+  font-size:72px;
+  color:rgb(150, 76, 107)
+}
+.spans{
+    font-size:42px;
+
+}
+.heart {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+.heart>i {
+  color: rgba(255,255,255,0.8);
+  font-size: 2rem;
+}
+
+section {
+  color: black;
+  position: relative;
+  margin: 0 auto;
+  padding: 30px;
+  width: 350px;
+  min-height: 200px;
+  transform: translateY(20%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: rgba(255,255,255,0.4);
+  border-radius: 20px;
+  box-shadow: 0px 0 31px 0px rgb(0 0 0 / 10%);
+  backdrop-filter: blur(15px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+img {
+  width: 60px;
+}
+.h{
+  display: flex;
+}
+h1 {
+  margin-top: 20px ;
+  font-size: 5rem;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: var(--purple);
+}
+h2{  margin-top: 2px ;
+
+    font-size: 2rem;
+
+}
+.card>p:nth-of-type(1) {
+  /* font-size: 2rem; */
+  /* font-weight: 600; */
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  color: var(--pink);
+}
+
+.card>p:nth-of-type(2) {
+  width: 100%;
+  margin: 20px 0;
+  /* font-size: 1.2rem; */
+  text-align: center;
+  color: var(--purple);
+  /* line-height: 1.3rem; */
+}
+
+.card {
+  width: 70%;
+  color: black;
+  font-weight: bold;
+}
+
+h4 {
+  margin: 20px 0 5px 0;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.buy-btn {
+  margin: 30px;
+  border: none;
+  padding: 37px 20px;
+  width: 50%;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  background-image: linear-gradient(43deg, var(--pink) 0%, var(--purple) 100%);
+  color: white;
+  font-weight: 600;
+  box-shadow: 0px 8px 15px rgb(0 0 0 / 10%)
+}
