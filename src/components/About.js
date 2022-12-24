@@ -12,7 +12,7 @@ function About() {
            await PushAPI.channels.subscribe({
              signer: signer,
              channelAddress:
-               "eip155:5:0x9147BDf9aaca01B5f2680633e254a9776ecB10e5", // channel address in CAIP
+               "eip155:5:0x3793cab318AF0D6dbee34BB07366Ac2C157C7C3d", // channel address in CAIP
              userAddress: `eip155:5:${address}`, // user address in CAIP
              onSuccess: () => {
                console.log("opt in success");

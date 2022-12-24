@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Push-Santa-Contest-Frontend/static/css/main.41a6ce37.css",
-    "main.js": "/Push-Santa-Contest-Frontend/static/js/main.2812f223.js",
+    "main.js": "/Push-Santa-Contest-Frontend/static/js/main.0886f05c.js",
     "static/js/148.b5e332f5.chunk.js": "/Push-Santa-Contest-Frontend/static/js/148.b5e332f5.chunk.js",
     "static/js/888.d89dc396.chunk.js": "/Push-Santa-Contest-Frontend/static/js/888.d89dc396.chunk.js",
     "static/js/624.df41c805.chunk.js": "/Push-Santa-Contest-Frontend/static/js/624.df41c805.chunk.js",
@@ -32,7 +32,7 @@
     "static/js/48.f628b330.chunk.js": "/Push-Santa-Contest-Frontend/static/js/48.f628b330.chunk.js",
     "index.html": "/Push-Santa-Contest-Frontend/index.html",
     "main.41a6ce37.css.map": "/Push-Santa-Contest-Frontend/static/css/main.41a6ce37.css.map",
-    "main.2812f223.js.map": "/Push-Santa-Contest-Frontend/static/js/main.2812f223.js.map",
+    "main.0886f05c.js.map": "/Push-Santa-Contest-Frontend/static/js/main.0886f05c.js.map",
     "148.b5e332f5.chunk.js.map": "/Push-Santa-Contest-Frontend/static/js/148.b5e332f5.chunk.js.map",
     "888.d89dc396.chunk.js.map": "/Push-Santa-Contest-Frontend/static/js/888.d89dc396.chunk.js.map",
     "624.df41c805.chunk.js.map": "/Push-Santa-Contest-Frontend/static/js/624.df41c805.chunk.js.map",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.41a6ce37.css",
-    "static/js/main.2812f223.js"
+    "static/js/main.0886f05c.js"
   ]
 }
